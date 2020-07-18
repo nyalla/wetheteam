@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: We
+title: 'We, The Software People'
 meta_title: 'We The Team, The SOFTWARE PEOPLE'
 meta_description: >
   “Any human crisis recorded in history so far has always triggered the
@@ -13,6 +13,6 @@ meta_description: >
 
   ‘We, (The IT people)’.
 ---
-## Inspiration to form We, 
+## Inspiration to form We:
 
 We., are seeking projects for Application development and Quality Assurance services catering to the domains of Supply Chain, Marketing, Healthcare, HR, Travel & Hospitality, Mobile apps. We, have experience, skill & hunger to grow while delivering Quality services to our prospective clients.
