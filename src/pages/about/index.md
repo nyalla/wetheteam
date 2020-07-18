@@ -1,9 +1,9 @@
 ---
 templateKey: about-page
 title: 'We, The IT People'
-meta_title: 'We, The Software People'
+meta_title: 'We, The IT People'
 meta_description: |
-  We, The Software People
+  We, The IT People
 ---
 ## Inspiration to form We:
 
