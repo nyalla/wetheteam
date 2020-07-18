@@ -1,6 +1,6 @@
 ---
 templateKey: home-page
-title: 'We, The SOFTWARE PEOPLE'
+title: 'We, The Software People'
 heading: 'Inspiration to form We, '
 description: >-
   “Any human crisis recorded in the history so far has always triggered the
