@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: 'We, The Software People'
+title: 'We, The IT People'
 meta_title: 'We, The Software People'
 meta_description: |
   We, The Software People
