@@ -1,6 +1,6 @@
 ---
 templateKey: home-page
-title: 'We, The Software People'
+title: 'We, The IT People'
 heading: 'Inspiration to form We, '
 description: >-
   “Any human crisis recorded in the history so far has always triggered the
@@ -71,7 +71,7 @@ testimonials:
       Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et
       dignissim ligula.  Lorem ipsum dolor sit amet, consectetur adipiscing
       elit.
-meta_title: 'We The Team, The SOFTWARE PEOPLE'
+meta_title: 'We The Team, The IT People'
 meta_description: >
   We., are seeking projects for Application development and Quality Assurance
   services catering to the domains of Supply Chain, Marketing, Healthcare, HR,
