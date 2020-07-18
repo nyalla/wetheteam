@@ -1,8 +1,8 @@
 ---
 templateKey: contact-page
 title: Contact Us
-subtitle: 'We''d Love To Help You, Feel Free To Drop A Mail'
-meta_title: 'We The Team, The SOFTWARE PEOPLE'
-meta_description: 'We The Team, The SOFTWARE PEOPLE'
+subtitle: 'We''d love to hear from you, feel free to drop us an email'
+meta_title: 'We, The IT People'
+meta_description: 'We, The IT People'
 ---
 
